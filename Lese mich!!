@@ -1,3 +1,16 @@
-Dies ist mein erstes selbst programmiertes Projekt in C#.
-Ich habe es erstellt, um meine erlernten Kenntnisse von if-Abfragen, Benutzereingaben und Datentyp-Umwandlungen anzuwenden.
-Der Taschenrechner kann einfache Addition, Subtraktion, Multiplikation und Division ausführen.
+Dies ist mein erstes selbst programmiertes Projekt in C#. 
+Der Taschenrechner kann einfache Rechenoperationen wie Addition, Subtraktion, Multiplikation und Division durchführen. 
+Ich habe das Projekt erstellt, um meine Kenntnisse in if-Abfragen, Benutzereingaben und Datentyp-Umwandlungen zu festigen.
+
+Was ich dabei gelernt habe:
+- Wie man Eingaben mit `Console.ReadLine()` liest  
+- Wie man Strings in Zahlen umwandelt (`Convert.ToDouble()`)  
+- Wie `if`- und `else if`-Abfragen funktionieren  
+- Wie man Fehler wie Division durch 0 erkennt und behandelt  
+- Wie man ein eigenes Projekt mit GitHub verbindet  
+
+Beispielausgabe:
+Gib deine erste Zahl ein: 10
+Gib einen Operator ein: +
+Gib deine zweite Zahl ein: 5
+Ergebnis: 15
